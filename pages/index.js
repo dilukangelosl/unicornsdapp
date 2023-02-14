@@ -22,8 +22,8 @@ export default function Home(props) {
     <>
       <Toaster position="top-center" reverseOrder={false} />
       <Head>
-        <title>OG APES CLUB - MINT</title>
-        <meta name="description" content="OGAC Mint" />
+        <title>Love story Unicorns - MINT</title>
+        <meta name="description" content="Love story Unicorns Official Mint" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
