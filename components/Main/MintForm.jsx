@@ -48,7 +48,7 @@ export default function MintForm(props) {
   const handleClose = () => setShow(false);
 
   const increase = () => {
-    if (qty < 15) {
+    if (qty < 20) {
       setQty(qty + 1);
       setMethApproved(false);
     }
