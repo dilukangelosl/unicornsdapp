@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #820",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/820.png",
+  "dna": "f0700c4d60b7256b33a45c1d56fd6af2684bc96b",
+  "edition": 820,
+  "date": 1653496987749,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Electric Blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White TShirt Brown Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "OG Coins"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Silky Durag"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surgery Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

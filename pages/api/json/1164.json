@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1164",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1164.png",
+  "dna": "22e737b74911d78e3b69d07817c9a0528125f808",
+  "edition": 1164,
+  "date": 1653497554901,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jump Suite"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Medium"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OG Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

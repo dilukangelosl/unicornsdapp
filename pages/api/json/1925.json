@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1925",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1925.png",
+  "dna": "145e46aee39e154cb48fe64d94589fcb66baf721",
+  "edition": 1925,
+  "date": 1653497323308,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mulberry"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black TShirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Fedora"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Trimmed Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1618",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1618.png",
+  "dna": "f29bab0d3c43afa6f44f8ac22dffa258d264941a",
+  "edition": 1618,
+  "date": 1653505512364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tea"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Polo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One eye"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Surgery"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suprised"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

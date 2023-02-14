@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1509",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1509.png",
+  "dna": "5f02644a7eefe8ef1c6ba34c5be5d9dfc91fba06",
+  "edition": 1509,
+  "date": 1653499284534,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Polo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cross eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Soldier Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suprised"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

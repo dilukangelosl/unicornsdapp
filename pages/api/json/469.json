@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #469",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/469.png",
+  "dna": "18dd08d34c322a2f77eeb5a9913a01d691737550",
+  "edition": 469,
+  "date": 1653504319767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tea"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Shirt "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dart"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pajama Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Speechless"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

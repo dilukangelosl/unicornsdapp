@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #854",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/854.png",
+  "dna": "4356f80d093342fd94043a735cbb6611c0404e27",
+  "edition": 854,
+  "date": 1653496935520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slate"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Polo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hostile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Golden Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

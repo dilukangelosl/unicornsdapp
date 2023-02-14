@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2498",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2498.png",
+  "dna": "4a3f965837eab68d7a46429ca944c90c57f0f5c3",
+  "edition": 2498,
+  "date": 1653497962756,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slate"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Vintage Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Trimmed Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #661",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/661.png",
+  "dna": "7fd3f1948c33bf50a666ecf5738d6988157d7584",
+  "edition": 661,
+  "date": 1653505307259,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "OG Wall"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Walking Stick"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Polo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pompadour"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Double Silver Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ventilator"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

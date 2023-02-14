@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1577",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1577.png",
+  "dna": "1f216956840f2387a43d80a70fe30e33f61ad542",
+  "edition": 1577,
+  "date": 1653504435076,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pearl River"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bolt action rifle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Sweatshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Winter Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1729",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1729.png",
+  "dna": "0ac9ef224dccd38eb802fac48632db73a7a01bcb",
+  "edition": 1729,
+  "date": 1653505670695,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shotgun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Rustic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalterTop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regret"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "MessyBun"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Common"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

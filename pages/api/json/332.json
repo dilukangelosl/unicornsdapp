@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #332",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/332.png",
+  "dna": "b6e74220e1d31470bdd87073ce2b5e234e7ff544",
+  "edition": 332,
+  "date": 1653499014295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scarlet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Orange Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ice Bag"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Serious"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

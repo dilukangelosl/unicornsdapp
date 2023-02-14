@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #900",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/900.png",
+  "dna": "567e059644852f2d9ab27d9d82b8738a00c8d31c",
+  "edition": 900,
+  "date": 1653504920765,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mulberry"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Mustache Pete Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Face Mole"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

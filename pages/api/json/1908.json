@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1908",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1908.png",
+  "dna": "d3e8201f8c72ae85530ce1365a7d70fbd1b202c9",
+  "edition": 1908,
+  "date": 1653504928184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surgery Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

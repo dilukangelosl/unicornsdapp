@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1694",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1694.png",
+  "dna": "dbad3a23e0db02b86ea0323ca0abbf1a0fd19359",
+  "edition": 1694,
+  "date": 1653499304924,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Shirt "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Double Silver Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ape News"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

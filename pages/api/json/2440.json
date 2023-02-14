@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2440",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2440.png",
+  "dna": "609ed3b3922804393930dfb9c6035aae0ad2de23",
+  "edition": 2440,
+  "date": 1653499180975,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Armchair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OG Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hostile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Charlie Chaplin Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Trimmed Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #924",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/924.png",
+  "dna": "f7caec1b253fca4e752c79ab4d27dbc079eb45e8",
+  "edition": 924,
+  "date": 1653498926847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Beam"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Medium"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

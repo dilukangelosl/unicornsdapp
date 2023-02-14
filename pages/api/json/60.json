@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #60",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/60.png",
+  "dna": "1b2605c422ba0ed99f3d79c0671f8d4397f128cc",
+  "edition": 60,
+  "date": 1653505389871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pearl River"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown Zip Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shut Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Speechless"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

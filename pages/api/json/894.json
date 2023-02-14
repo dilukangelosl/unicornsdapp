@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #894",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/894.png",
+  "dna": "8998d9f0c94b8412bbfea0164fd975b923c518c8",
+  "edition": 894,
+  "date": 1653504107543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Flannel Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Snapback Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thermometer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

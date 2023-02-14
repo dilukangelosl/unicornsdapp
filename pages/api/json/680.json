@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #680",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/680.png",
+  "dna": "93168d1ea7294e46cae5c683c922c6226cf247c8",
+  "edition": 680,
+  "date": 1653497100980,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Redwood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Tank Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hostile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Arrow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OG Smile"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

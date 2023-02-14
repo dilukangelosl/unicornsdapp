@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2052",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2052.png",
+  "dna": "a30fdd32454c536059a77491eebc5a67d2a8b7d7",
+  "edition": 2052,
+  "date": 1653498627792,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Walking Stick"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mane"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Double Silver Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suprised"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

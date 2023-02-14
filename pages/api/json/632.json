@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #632",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/632.png",
+  "dna": "9f3ecbae83988eba8c84df9204d4d03f4abf3136",
+  "edition": 632,
+  "date": 1653498225447,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pearl River"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Suspenders"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "One eye"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Soldier Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Double Silver Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Golden Tooth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

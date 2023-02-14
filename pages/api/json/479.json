@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #479",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/479.png",
+  "dna": "27f4adea239c296b0cb7ecdda37627c463a14d7e",
+  "edition": 479,
+  "date": 1653499288677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slate"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OG Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Beam"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Medium Short"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Double Silver Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gunslinger"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

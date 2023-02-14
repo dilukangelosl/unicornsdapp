@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #996",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/996.png",
+  "dna": "a6a79cacf36a7483068312f4f1a845e5056a00f2",
+  "edition": 996,
+  "date": 1653497783928,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Redwood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Tank Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cross eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mafia Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Trimmed Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

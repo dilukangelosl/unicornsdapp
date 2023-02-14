@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1992",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1992.png",
+  "dna": "aef7c79fe7c44387a2e381dbc491fd1d5d6328f3",
+  "edition": 1992,
+  "date": 1653497573765,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Apricot"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bolt action rifle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OG Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Ruby Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Full Beard"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

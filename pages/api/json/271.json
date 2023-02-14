@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #271",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/271.png",
+  "dna": "453eadbf599c72d9793ad0495970dbc146fef3c1",
+  "edition": 271,
+  "date": 1653497442477,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slate"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Flannel Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Winter Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Full Beard"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

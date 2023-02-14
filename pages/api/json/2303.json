@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2303",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2303.png",
+  "dna": "ea873639e4143bea5fde7bf23e5cf190f70fd052",
+  "edition": 2303,
+  "date": 1653497518308,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Redwood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Shirt "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Fedora"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gunslinger Red N"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

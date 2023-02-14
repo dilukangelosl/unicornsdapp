@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #360",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/360.png",
+  "dna": "6313fa4dbfcc53355804ca71da6ae44d9d02e07d",
+  "edition": 360,
+  "date": 1653499006516,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Slate"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Surgery"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Arrow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ape News"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

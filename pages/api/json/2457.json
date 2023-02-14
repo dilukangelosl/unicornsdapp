@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2457",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2457.png",
+  "dna": "6b557d0978ea53c89da85c3770441d74b2dfc404",
+  "edition": 2457,
+  "date": 1653497351018,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Electric Blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Walking Stick"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Shirt "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Punched"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

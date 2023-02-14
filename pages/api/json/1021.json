@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1021",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1021.png",
+  "dna": "f495f0ecdb891b1a5cca54c65f395fccf2c7aee7",
+  "edition": 1021,
+  "date": 1653504198231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "OG Wall"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Suspenders"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Arrow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CO2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1048",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1048.png",
+  "dna": "9bfb4c66160a564d587b7ab7ab65d259a7e3328b",
+  "edition": 1048,
+  "date": 1653505424620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Redwood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Umbrella"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Jacket Red Tie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Face Mole"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Serious"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

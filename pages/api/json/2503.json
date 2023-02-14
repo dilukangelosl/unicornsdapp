@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2503",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2503.png",
+  "dna": "77c5bb7f7e1b778794dc800e8ea56aa761c646ea",
+  "edition": 2503,
+  "date": 1653497161784,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tea"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Walking Stick"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Tank Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown Peaky"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Full Beard"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

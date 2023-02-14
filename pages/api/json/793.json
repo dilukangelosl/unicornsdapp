@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #793",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/793.png",
+  "dna": "dfe0dd973c26333a0eec2a37eee1d6adb0ef2269",
+  "edition": 793,
+  "date": 1653504907958,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White TShirt Brown Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Golden Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CO2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

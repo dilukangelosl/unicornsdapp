@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1435",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1435.png",
+  "dna": "3543fe0ff3ae0fc50f03a45ea09a12cd36c87808",
+  "edition": 1435,
+  "date": 1653499071537,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Jogger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Beanie With OG Logo"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

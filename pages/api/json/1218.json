@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1218",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1218.png",
+  "dna": "a44906ce0d68a75ea7def20b4e0272f6cdff51d4",
+  "edition": 1218,
+  "date": 1653505199449,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Polo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Soldier Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Trimmed Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

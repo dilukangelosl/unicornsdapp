@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1985",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1985.png",
+  "dna": "800381304e69c8cffac10f3d9461694f23249048",
+  "edition": 1985,
+  "date": 1653504316755,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mulberry"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "AR15 Rifle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Golden Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Serious"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

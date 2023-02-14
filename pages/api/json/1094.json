@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1094",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1094.png",
+  "dna": "b9d8687725c68dfc3d46b814612cef5057b6bc3a",
+  "edition": 1094,
+  "date": 1653497597960,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pearl River"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Surgery Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Guilty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mane"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gunslinger"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

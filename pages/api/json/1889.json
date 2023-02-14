@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1889",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1889.png",
+  "dna": "87f0fd676bfe5e160197189481295cae66e844a8",
+  "edition": 1889,
+  "date": 1653499154137,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pearl River"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "The Geeks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Ruby Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Serious"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

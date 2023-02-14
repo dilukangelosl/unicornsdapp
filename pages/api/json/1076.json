@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1076",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1076.png",
+  "dna": "fd4f0f1e299a88c39ba588a3b12952438ad826eb",
+  "edition": 1076,
+  "date": 1653504345639,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mulberry"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Beam"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Snapback Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ape News"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

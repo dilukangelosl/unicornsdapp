@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #712",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/712.png",
+  "dna": "60b08dfffd3c31441b2dfcc3517e2402bb032031",
+  "edition": 712,
+  "date": 1653505117286,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Electric Blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White TShirt Brown Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Silky Durag"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

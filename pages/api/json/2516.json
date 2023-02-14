@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2516",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2516.png",
+  "dna": "f546f3871321a324bfe017ab53857bc3ba2883d5",
+  "edition": 2516,
+  "date": 1653498567289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bolt action rifle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown Zip Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flat Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sneer Mole"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #936",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/936.png",
+  "dna": "ebeb066815713f80541103374c456b8b1e553b8b",
+  "edition": 936,
+  "date": 1653504378227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mulberry"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wagyu"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Brown Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Beanie With OG Logo"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balboo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

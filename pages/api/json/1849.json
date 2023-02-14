@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1849",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1849.png",
+  "dna": "85bfb69cb59fc18bc257fe4333715f85aa343966",
+  "edition": 1849,
+  "date": 1653499469948,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Military Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Medium Short"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surgery Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

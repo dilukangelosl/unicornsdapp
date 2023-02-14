@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2097",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2097.png",
+  "dna": "e0752f83a9d036229dcdd0d88b107d376dda09a5",
+  "edition": 2097,
+  "date": 1653505104824,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tea"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jump Suite"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

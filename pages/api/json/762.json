@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #762",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/762.png",
+  "dna": "95610e1b34b71339e6d7b93ec13ceee09dfd1c92",
+  "edition": 762,
+  "date": 1653499411585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amazed"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ice Bag"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #736",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/736.png",
+  "dna": "50154fce2e55ee4a595feb4c762ca2a44030e199",
+  "edition": 736,
+  "date": 1653499198835,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Prison"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Flannel Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Medium Short"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surgery Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

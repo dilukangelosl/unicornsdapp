@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1638",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1638.png",
+  "dna": "4609d62ad5d000d14b09214b6dab9b1dae8385f1",
+  "edition": 1638,
+  "date": 1653505325641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cross eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Charlie Chaplin Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CO2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

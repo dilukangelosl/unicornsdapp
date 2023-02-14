@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1127",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1127.png",
+  "dna": "2241281c7cbbdaeada783ab14c4731f7ffa50393",
+  "edition": 1127,
+  "date": 1653504259736,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hospital Gown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Suprised"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Surgery"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Biting Lip"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

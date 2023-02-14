@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1953",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1953.png",
+  "dna": "55b5bc0c7b2628e216bf2f950c7bdbf16f46f59a",
+  "edition": 1953,
+  "date": 1653504335931,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Apricot"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Wooden chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Inspector Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tartaruga Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vintage Flat Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Full Beard"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

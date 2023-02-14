@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2.png",
+  "dna": "63a881d1dd56e74907f866d380d7159fed86413b",
+  "edition": 2,
+  "date": 1653499574587,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Redwood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "RegalPurple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Inspector Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shut Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Silky Durag"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CO2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

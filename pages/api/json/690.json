@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #690",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/690.png",
+  "dna": "cddfea18621cb84e7202ad01d0b6b94632c14c81",
+  "edition": 690,
+  "date": 1653498105806,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Redwood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "AR15 Rifle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Timber"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Jogger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Retro Sunglasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "OG Snapback Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Golden Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Golden Tooth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

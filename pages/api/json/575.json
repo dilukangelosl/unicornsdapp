@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #575",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/575.png",
+  "dna": "1851be4a952dbfd03b340cbc04c8fcfa24c33f45",
+  "edition": 575,
+  "date": 1653505692208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shotgun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "IceColdKilla"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OGBlood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Snapback"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Common"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

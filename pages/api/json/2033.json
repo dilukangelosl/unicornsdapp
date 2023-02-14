@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2033",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2033.png",
+  "dna": "e2248717cb2138e87223f6b4c26ebd6f00c03e98",
+  "edition": 2033,
+  "date": 1653497768324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Electric Blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hyphy Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wooden Sunglasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Winter Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Serious"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

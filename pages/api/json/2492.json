@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2492",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2492.png",
+  "dna": "517a297e844e086e1b24f4bd3aded984b5eb214b",
+  "edition": 2492,
+  "date": 1653505029098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bolt action rifle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Punched"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Charlie Chaplin Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Golden Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

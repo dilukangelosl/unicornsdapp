@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #44",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/44.png",
+  "dna": "0ed2e632f2500b3f41b7aad8da399d8bb0adc8c6",
+  "edition": 44,
+  "date": 1653497092330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nuclear"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Walking Stick"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White TShirt Brown Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Silky Durag"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

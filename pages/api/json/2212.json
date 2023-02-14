@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2212",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2212.png",
+  "dna": "0116587834bcf1a1cc9334161cbaac64a1d25d7d",
+  "edition": 2212,
+  "date": 1653505657694,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "AR15 Rifle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OGBlood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shady"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Chola"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Common"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

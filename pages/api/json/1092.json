@@ -1,0 +1,15 @@
+{
+  "name": "OG Ape Club #1092",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1092.png",
+  "dna": "036099bc19407420d34506aa2c393d55c6bb9ee1",
+  "edition": 1092,
+  "date": 1653511646989,
+  "attributes": [
+    {
+      "trait_type": "1:1",
+      "value": "The Country Boss"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

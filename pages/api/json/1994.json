@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #1994",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1994.png",
+  "dna": "07b0877bd457659e84b8ef37aa6a3f5f672aee7d",
+  "edition": 1994,
+  "date": 1653505627002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Redwood"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shotgun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "IceColdKilla"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regret"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Snapback"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lipstick"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

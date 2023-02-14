@@ -1,0 +1,43 @@
+{
+  "name": "OG Ape Club #2137",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2137.png",
+  "dna": "7cc5cb76d5092d539c54a3cf7a8a5bc3d328e125",
+  "edition": 2137,
+  "date": 1653505665789,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Shotgun"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OGBlood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Faded"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "BlondBob"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubblegum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

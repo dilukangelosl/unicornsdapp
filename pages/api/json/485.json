@@ -1,0 +1,15 @@
+{
+  "name": "OG Ape Club #485",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/485.png",
+  "dna": "acc588d14d5e9b97feb8bccb04342fcd03bdcd02",
+  "edition": 485,
+  "date": 1653511662355,
+  "attributes": [
+    {
+      "trait_type": "1:1",
+      "value": "Crypto Homie"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "OG Ape Club #2334",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/2334.png",
+  "dna": "d12b7ffca0a8781b90b5e57e3b72b4a6ad44fd6c",
+  "edition": 2334,
+  "date": 1653511652697,
+  "attributes": [
+    {
+      "trait_type": "1:1",
+      "value": "God Of Thunder Ape"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "OG Ape Club #5",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/5.png",
+  "dna": "2688ea9021d0533e7be7cdd612f34583bc0f1763",
+  "edition": 5,
+  "date": 1653511654401,
+  "attributes": [
+    {
+      "trait_type": "1:1",
+      "value": "OG Driver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

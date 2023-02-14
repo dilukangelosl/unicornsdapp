@@ -1,0 +1,15 @@
+{
+  "name": "OG Ape Club #1915",
+  "description": "OGAC",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVv6hmcfzHqJBJmSfvMXW86EiyezJMY3nd7QNe2uEKjbW/1915.png",
+  "dna": "881c69b2d5376ccf05d7fe54d9927c0b0422f008",
+  "edition": 1915,
+  "date": 1653511676125,
+  "attributes": [
+    {
+      "trait_type": "1:1",
+      "value": "OG Football Ape"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
